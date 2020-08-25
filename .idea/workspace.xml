@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cb8322c-10cb-448d-bfa7-23d5113bdeda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0cb8322c-10cb-448d-bfa7-23d5113bdeda" name="Default Changelist" comment="Merge branch 'master' of https://github.com/sandundev/learn-react-app&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598281554066</updated>
       <workItem from="1598281557753" duration="2124000" />
-      <workItem from="1598348136286" duration="632000" />
+      <workItem from="1598348136286" duration="745000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/sandundev/learn-react-app&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1598348841111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598348841111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,9 +116,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/sandundev/learn-react-app&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/sandundev/learn-react-app&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="665" y="311" key="MultipleFileMergeDialog" timestamp="1598348828851">
+      <screen x="0" y="23" width="2048" height="1037" />
+    </state>
+    <state x="665" y="311" key="MultipleFileMergeDialog/0.23.2048.1037@0.23.2048.1037" timestamp="1598348828851" />
     <state x="813" y="251" key="RollbackChangesDialog" timestamp="1598283707749">
       <screen x="0" y="23" width="2048" height="1037" />
     </state>
